@@ -3,10 +3,33 @@
     <title>Meu Hiperfoco, por Italo Roza</title>
     <link href="https://gunter-sz.github.io/Meu-Hiperfoco/feed.xml" rel="self" />
     <link href="https://gunter-sz.github.io/Meu-Hiperfoco" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2025-09-21T10:28:06-03:00</updated>
     <author>
         <name>Italo Roza</name>
     </author>
     <id>https://gunter-sz.github.io/Meu-Hiperfoco</id>
 
+    <entry>
+        <title>teste</title>
+        <author>
+            <name>Italo Roza</name>
+        </author>
+        <link href="https://gunter-sz.github.io/Meu-Hiperfoco/teste-2/"/>
+        <id>https://gunter-sz.github.io/Meu-Hiperfoco/teste-2/</id>
+
+        <updated>2025-09-21T10:28:06-03:00</updated>
+            <summary>
+                <![CDATA[
+                    teste
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    teste
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
